@@ -1,2 +1,2 @@
-Customer Churn Prediction
+Customer Churn Prediction:
 Machine learning project that predicts telecom customer churn using multiple ensemble learning techniques, including Stacking, Random Forest, Bagging, and Boosting. The project includes comprehensive EDA, statistical feature selection using Chi-Square and Cramér's V, data preprocessing with Scikit-learn pipelines, model evaluation, and an interactive UI for real-time churn predictions.
